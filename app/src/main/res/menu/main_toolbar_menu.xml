@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_export"
+        android:title="@string/export_csv"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_notification_settings"
+        android:title="@string/notification_settings_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_biometric_toggle"
+        android:title="@string/enable_biometric_lock"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_choose_theme"
+        android:title="@string/choose_theme"
+        app:showAsAction="never">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/action_theme_light"
+                    android:title="@string/theme_light" />
+                <item
+                    android:id="@+id/action_theme_dark"
+                    android:title="@string/theme_dark" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_sign_out"
+        android:title="@string/sign_out"
+        app:showAsAction="never" />
+</menu>

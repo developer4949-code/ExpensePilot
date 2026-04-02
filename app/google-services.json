@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920059204788",
+    "project_id": "expensepilot-6f7ed",
+    "storage_bucket": "expensepilot-6f7ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920059204788:android:f4bf2a54bb4a5434bcb3e1",
+        "android_client_info": {
+          "package_name": "com.debiprasaddas.expensepilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZCU9BZNg5U1aB2MVbwqa3EsLT-V0d84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

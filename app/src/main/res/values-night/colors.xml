@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#79A8FF</color>
+    <color name="primary">#79A8FF</color>
+    <color name="primary_dark">#3B68C4</color>
+    <color name="secondary">#52C2FF</color>
+    <color name="accent_soft">#233962</color>
+    <color name="surface">#091221</color>
+    <color name="surface_alt">#0E1B2E</color>
+    <color name="surface_card">#101D33</color>
+    <color name="ink">#ECF3FF</color>
+    <color name="ink_muted">#A8B5CA</color>
+    <color name="positive">#57D6A4</color>
+    <color name="negative">#FF7D93</color>
+    <color name="warning">#52C2FF</color>
+    <color name="divider">#223453</color>
+    <color name="goal_track">#20314E</color>
+    <color name="chart_one">#79A8FF</color>
+    <color name="chart_two">#52C2FF</color>
+    <color name="chart_three">#99D8FF</color>
+    <color name="chart_four">#8D86FF</color>
+    <color name="chart_five">#4E6EA9</color>
+    <color name="auth_navy">#081120</color>
+    <color name="auth_cream">#091221</color>
+    <color name="auth_mist">#12233F</color>
+    <color name="auth_pale_teal">#102B48</color>
+    <color name="gradient_start">#081120</color>
+    <color name="gradient_end">#0C1830</color>
+    <color name="income_tag_bg">#16382F</color>
+    <color name="expense_tag_bg">#3C1C28</color>
+</resources>
