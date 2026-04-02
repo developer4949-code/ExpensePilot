@@ -262,9 +262,3 @@ Required console step:
 - Debug build verified with `.\gradlew.bat assembleDebug`
 - Latest verification completed on April 2, 2026
 
-## Why This Submission Stands Out
-
-- Built with native Android fundamentals instead of a high-level framework
-- Strong emphasis on product polish, not only raw feature count
-- Includes thoughtful optional enhancements beyond the base assignment
-- Balances local-first engineering with modern app expectations like auth, biometrics, theme control, smart reminders, and AI-driven insights
