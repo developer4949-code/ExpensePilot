@@ -7,6 +7,11 @@ It helps users track transactions, understand spending patterns, monitor savings
 ## APK
 
 - Download APK: [ExpensePilot Debug APK](https://drive.google.com/file/d/1XcLcElBJBO_7ICrUZfvC3PoJrUMjWrtt/view?usp=sharing)
+## App Preview
+
+Here are some glimpses of ExpensePilot running on my device:
+
+![ExpensePilot Screenshot](Screenshot%202026-04-02%20184212.png)
 
 ## Assignment Goals Covered
 
